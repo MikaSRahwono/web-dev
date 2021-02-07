@@ -1,23 +1,18 @@
 import React from 'react'
 import './HomePorto.css'
+import { HomePortoWebdev, HomePortoPhoto, HomePortoVideo } from '../../components'
+
 
 function HomePorto() {
     return (
         <div className='homePorto'>
             <div className='homePorto-title'>
-                My Portofolio
+                My Works
             </div>
             <div className='homePorto-content'>
-                <div className='homePorto-content__webdev'>
-                    Web Development
-                    <div className='homePorto-content__webdev-img'></div>
-                </div>
-                <div className='homePorto-content__photo'>
-                    Photography
-                </div>
-                <div className='homePorto-content__video'>
-                    Videography
-                </div>
+                <HomePortoWebdev/>
+                <HomePortoPhoto/>
+                <HomePortoVideo/>
             </div>
         </div>
     )

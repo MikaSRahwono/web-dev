@@ -1,0 +1,48 @@
+.homePortoWebdev-title {
+  font-size: 6vw;
+}
+
+.homePortoWebdev-img {
+  background-image: url(../../assets/Background\ Welstaff.png);
+  background-size: contain;
+  margin-top: 2vw;
+  width: 25vw;
+  padding: 200px;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+.homePortoWebdev-text {
+  position: absolute;
+  left: 60vw;
+  font-size: 3.5vw;
+  margin-top: 7vw;
+}
+
+.homePortoWebdev-button {
+  font-size: 2.5vw;
+  border-radius: 20px;
+  padding: 20px;
+  transition: 0.5s;
+  border-color: transparent;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.homePortoWebdev-button:link {
+  color: black;
+  text-decoration: none;
+}
+
+.homePortoWebdev-button:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.homePortoWebdev-button:hover {
+  background-color: wheat;
+}
+
+.homeportowebdev-button:active {
+  border-color: transparent;
+}
