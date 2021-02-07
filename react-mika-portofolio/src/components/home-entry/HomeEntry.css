@@ -1,0 +1,13 @@
+.homeEntry {
+  margin: 2vw;
+}
+
+.homeEntry-topname {
+  margin-top: 1em;
+  font-size: 12vw;
+}
+
+.homeEntry-botname {
+  font-size: 12vw;
+  text-align: end;
+}

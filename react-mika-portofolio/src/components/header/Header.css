@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  width: 100%;
+  background-color: transparent;
+}
+
+.home-link:link {
+  text-decoration: none;
+  color: black;
+  flex-grow: 1;
+  margin-left: 2vw;
+  font-size: 3vw;
+}
+
+.home-link:visited {
+  color: black;
+}

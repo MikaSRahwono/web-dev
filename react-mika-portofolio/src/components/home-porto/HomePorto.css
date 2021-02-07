@@ -1,0 +1,26 @@
+.homePorto-title {
+  text-align: end;
+  margin-top: 5vw;
+  font-size: 8vw;
+  font-weight: 400;
+  margin-right: 3vw;
+  margin-bottom: 8vw;
+}
+
+.homePorto-content__webdev {
+  text-align: end;
+  font-size: 4vw;
+  margin-right: 3vw;
+}
+
+.homePorto-content__photo {
+  text-align: start;
+  font-size: 4vw;
+  margin-left: 3vw;
+}
+
+.homePorto-content__video {
+  text-align: end;
+  font-size: 4vw;
+  margin-right: 3vw;
+}

@@ -1,0 +1,22 @@
+.homeIntro__image {
+  background-image: url(../../assets/IMG_8181-01.jpeg);
+  position: static;
+  padding: 400px 100px;
+  background-size: contain;
+  width: 25vw;
+  background-repeat: no-repeat;
+  left: 15vw;
+  margin-top: 10vw;
+  background-color: transparent;
+}
+
+.homeIntro__intro-card {
+  background-color: white;
+  position: absolute;
+  border: 2px;
+  left: 30vw;
+  padding: 5vw;
+  padding-left: 12vw;
+  margin-right: 5vw;
+  margin-top: 6vw;
+}

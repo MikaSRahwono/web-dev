@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-items:link {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  font-size: 2vw;
+  text-transform: uppercase;
+  margin-top: 0.5vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+.navbar-items:visited {
+  text-decoration: none;
+  color: black;
+}
